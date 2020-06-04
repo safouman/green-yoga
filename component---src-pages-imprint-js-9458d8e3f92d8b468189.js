@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{"1srO":function(n,e,r){},IoOV:function(n,e,r){"use strict";r.r(e),r.d(e,"query",(function(){return u}));var t=r("q1tI"),a=r.n(t),o=r("Bl7J");r("1srO");e.default=function(n){var e=n.data.markdownRemark.html;return a.a.createElement(o.a,null,a.a.createElement("div",{className:"imprint__container",dangerouslySetInnerHTML:{__html:e}}))};var u="1347958056"}}]);
+//# sourceMappingURL=component---src-pages-imprint-js-9458d8e3f92d8b468189.js.map
